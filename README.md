@@ -21,9 +21,7 @@
 
 ## 📂 Featured Learning Projects
 *(work-in-progress, but check them out!)*  
-- 📈 **Trading Demo App** – Simulated trading to practice APIs and data flow  
-- 📊 **Analytics Experiments** – Exploring datasets & visualizations in Python  
-- 🌐 **Mini Web Apps** – Practicing Go & Python web integrations  
+- N/A
 
 ---
 
