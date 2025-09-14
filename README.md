@@ -1,4 +1,4 @@
-# Hi there 👋 I'm mostsimpleusername  
+# Hi there 👋 I'm Mr. Simple  
 
 🎓 Student | 💻 Aspiring Data & Tech Enthusiast | 🌏 Dreaming Abroad  
 
