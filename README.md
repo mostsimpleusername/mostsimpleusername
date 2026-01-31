@@ -13,7 +13,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python 🐍 | Golang | SQL  
+- **Languages:** Python 🐍 | Golang | Typescript  
 - **Interests:** Data Analytics 📊 | Web Development 🌐 | System Design ⚙️  
 - **Tools:** Git, GitHub, Jupyter Notebook, VS Code  
 
@@ -26,7 +26,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostsimpleusername&show_icons=true&theme=tokyonight)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostsimpleusername)](https://github.com/anuraghazra/github-readme-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostsimpleusername&layout=compact&theme=tokyonight)  
 
 ---
